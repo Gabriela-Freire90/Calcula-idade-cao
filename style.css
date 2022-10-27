@@ -1,0 +1,15 @@
+body {
+	background-color: #e3e8cd;
+	font-family: Roboto, Arial, Helvetica;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+header{
+    align-items: center;
+    background-color: #bcd8bf;
+}
+h1{
+    text-align: center;
+}
